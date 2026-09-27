@@ -6,7 +6,7 @@ Database design coursework, lectures 1 to 4. Each lecture is a self-contained fo
 
 Group members: Allan Buhl Blindbæk (individual submission)
 
-Submitted commit: 14a800ade1a2855d37f8e2c512377be039391663
+Submitted commit: see the Moodle submission
 
 Setup and reset instructions: see the README in each lecture folder
 
