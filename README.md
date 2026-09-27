@@ -5,7 +5,9 @@ Database design coursework, lectures 1 to 4. Each lecture is a self-contained fo
 # Compulsory Assignment 1 review guide
 
 Group members: Allan Buhl Blindbæk (individual submission)
-Submitted commit: TO BE FILLED IN
+
+Submitted commit: 14a800ade1a2855d37f8e2c512377be039391663
+
 Setup and reset instructions: see the README in each lecture folder
 
 Every folder runs the same way. From the lecture folder, `docker compose up -d` starts the database and runs the initialisation scripts; `docker compose down -v` followed by `docker compose up -d` resets it. Only one lecture can run at a time, since all four use port 5432.
